@@ -1,0 +1,6 @@
+# nWave activation marker (keep .nwave/local-config.json trackable)
+.nwave/*
+!.nwave/local-config.json
+
+# Claude Code local (per-machine) permission settings — not shared config
+.claude/settings.local.json
