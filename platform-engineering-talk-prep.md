@@ -4,6 +4,24 @@ Companion to `platform-engineering-talk.md`. Everything here used to live *on* s
 
 ---
 
+## 0. The room (read this first)
+
+**ProductTank Bengaluru**, at the meetup themed *"Product vs Platform: The Mindset Shift Every PM Needs"*. Hosted at Booking Holdings, RMZ Ecoworld, Bellandur. You are **one of three talks** in the 10:30–12:30 block, alongside speakers from Booking Holdings and Atlassian, with a separate hands-on workshop after lunch.
+
+**The audience is mixed product managers and engineering leaders — not the platform-engineering audience this deck was originally written for.**
+
+Two consequences, both already applied to the deck:
+
+1. **From the two-column turn onwards, every engineer-facing claim has a product-facing twin in the same sentence or grid.** "Spec review *and* code review." "Quarterly roadmaps." "Estimates." "Approvals, sign-offs, review meetings." Read both halves and do not announce that you are doing it — the pairing works because nobody notices it happening.
+2. **The case study keeps its engineering spine** (FHIR, ABP.io, the strangler fig, the five graduates) **and gains a translation into the currency a PM budgets in** — budget, velocity, and brownfield. The three lines that carry it:
+   - *"Finance saw four bids for budget; the roadmap saw every estimate quietly growing."* — the whole product translation of the diagnosis. If a PM remembers one sentence from the case study, make it this one.
+   - *"...your delivery estimates stop depending on which five people happen to be free."* — pays off the "estimates" assumption planted earlier.
+   - *"...instead of the big-bang rewrite you keep being asked to fund."* — the single most valuable sentence in the deck for a PM on a legacy product. Say it slowly.
+
+**Slot length is unconfirmed.** Three talks in a two-hour block implies ~35–40 minutes gross each, against a deck budgeted for 60. The cover speaker note now carries both a 60-minute and a 35-minute timing plan, plus one **pre-agreed cut** — the FHIR slide, whose argument already survives on the diagnosis slide's third card and on the strangler-fig slide. Decide which plan you are running *before* you walk up, not on stage. **Confirm the real number with the organisers.**
+
+---
+
 ## 1. The red-flag reversal (delivered verbally, no longer a slide)
 
 The slide **"The man with the red flag"** sets up the story everyone recognises. The correction is now yours to deliver from the stage — the reversal is the most credibility-building 40 seconds in the talk, and it lands harder spoken than printed.
@@ -85,7 +103,7 @@ The section now runs: scale curve → policeman ("the 1900s") → congestion ("t
 - **Interstate slide:** do not draw the 1956→1975 parallel out loud. Ask the question, leave a real silence, move on. If you say it for them you have taken the best moment in the talk away from the audience.
 - **"The obvious conclusion is wrong":** the hinge. Read one row of the table aloud — 1886 to 1911 is twenty-five years — and let the gap do the work.
 - **"Ahead of the scale":** the title pays off here. Say it plainly: "that is the title of this talk, and it is the only claim in it I am willing to defend."
-- **Homecare slide:** keep the sector context to ~30 seconds; the audience needs just enough to feel "there is no just-ship-it path". Be honest that the diagnosis was not day-one knowledge.
+- **Homecare slide:** keep the sector context to ~30 seconds; the audience needs just enough to feel "there is no just-ship-it path". Be honest that the diagnosis was not day-one knowledge. Land the budget line — *"Finance saw four bids for budget; the roadmap saw every estimate quietly growing"* — because that is what makes the absence of boundaries a product problem rather than an engineering aesthetic (see §0).
 - **"The part that made it work":** the most transferable slide. Consult people as advisors while the outcome is genuinely open — asking for an opinion is how you transfer ownership. Contrast with the red flag: imposed control gets worked around; co-designed control gets defended.
 - **"The five takeaways":** if running long, land here — everything after it is optional. Say "The diagnosis" and "Adoption" in your own words; they are lived evidence, not recital.
 
