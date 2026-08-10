@@ -1,6 +1,6 @@
 # Sources
 
-Research and verification sources for **"Ahead of the Scale."** — Platform Engineering Day, Bengaluru.
+Research and verification sources for **"Ahead of the Scale."** — ProductTank Bengaluru.
 
 Every factual claim in this talk was checked against primary, academic, or official sources before it was allowed on a slide. Four claims were corrected and three were hedged or dropped as a result — see the full claim-by-claim verification, with confidence ratings and the falsification method used, in [`docs/research/platform-history/road-infrastructure-platform-analogy-research.md`](docs/research/platform-history/road-infrastructure-platform-analogy-research.md). The speaker's own pre-talk notes — anticipated pushback, the verification ledger, delivery reminders — are in [`platform-engineering-talk-prep.md`](platform-engineering-talk-prep.md). This file is the flat bibliography behind both.
 

@@ -1,6 +1,6 @@
 # License
 
-**Ahead of the Scale.** — Platform Engineering Day, Bengaluru — by Vibhor Mahajan
+**Ahead of the Scale.** — ProductTank Bengaluru — by Vibhor Mahajan
 
 This work (the slide deck, its prose, diagrams, and the accompanying prep, sources, and speaker notes in this repository) is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
 
